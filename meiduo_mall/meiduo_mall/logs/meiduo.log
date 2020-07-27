@@ -1,0 +1,19 @@
+INFO 2020-07-27 03:54:01,497 <console> 1 打印信息
+ERROR 2020-07-27 03:54:07,266 <console> 1 错误信息
+INFO 2020-07-27 04:14:57,886 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:17:31,508 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:20:55,446 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:23:26,620 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:28:25,115 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:28:44,682 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:34:11,489 autoreload 217 /home/ubuntu/Desktop/meiduo_mall_sz38/meiduo_mall/meiduo_mall/settings/__init__.py changed, reloading.
+INFO 2020-07-27 04:34:11,780 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:34:12,057 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:37:53,769 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:40:24,092 autoreload 217 /home/ubuntu/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/backends/mysql/base.py changed, reloading.
+INFO 2020-07-27 04:40:24,375 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:40:24,485 autoreload 217 /home/ubuntu/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/backends/mysql/base.py changed, reloading.
+INFO 2020-07-27 04:40:24,744 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:41:30,620 autoreload 597 Watching for file changes with StatReloader
+INFO 2020-07-27 04:41:30,843 autoreload 217 /home/ubuntu/.virtualenvs/meiduo_mall/lib/python3.6/site-packages/django/db/backends/mysql/base.py changed, reloading.
+INFO 2020-07-27 04:41:31,097 autoreload 597 Watching for file changes with StatReloader
